@@ -1,5 +1,5 @@
-# hack-the-change-2023
-Hack the Change 2023 Repo for the Dr.Racket team
+# recipe-generator
+
 ## Introduction
 The goal of the project is helping people to get rid of waste of food. The webapp could let you make a meal with the ingredients that almost expired in your fridge. ChatGPT will tell you what to make by them.
 ## Style guide
